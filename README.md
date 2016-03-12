@@ -1,4 +1,4 @@
-# Linux Shell, Administration & Packages (Ubuntu 14+)
+# Linux Shell, Administration & Packages (Ubuntu)
 
 * [System Info](System Info.md)
 * [Updates](Updates.md)
