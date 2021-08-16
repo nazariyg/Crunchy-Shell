@@ -14,7 +14,7 @@
 * [RSYNC](RSYNC.md)
 * [FTP](FTP.md)
 * [Tar](Tar.md)
-* [Oracle Java](Java - Oracle Java 8.md)
+* [Oracle Java](Java%20-%20Oracle%20Java%208.md)
 * [Memcached](Memcached.md)
 * [SSL](SSL.md)
 * [sysctl](sysctl.md)
